@@ -13,7 +13,7 @@ public class BasicInputData {
 
         System.out.println("The number is "+num);
 
-
+        
 
 
 

@@ -19,7 +19,7 @@ public class StudentAPP {
         std2.introduce();
 
         std1.changFalcuty("Engineer RUTS");
-        std1.introduce();
+        std1. introduce();
         std2.introduce();
 
 
